@@ -1,0 +1,12 @@
+.calc {
+    height: 350px;
+    width: 300px;
+    margin: none;
+    border: 1px solid red;
+    padding: 10px;
+    -webkit-box-shadow: 10px 30px 80px 10px red;
+    background-color: brown;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.header{
+    margin: none;
+    font-size: 1.1em;
+    height: 20px;
+    width: 300px;
+    background-color: #ee420d;
+    border: 1px solid #000000;
+    outline: none;
+}

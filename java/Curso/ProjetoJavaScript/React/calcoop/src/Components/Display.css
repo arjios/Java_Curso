@@ -1,0 +1,10 @@
+.display {
+    background-color: yellow;
+    border: 3px solid #000000;
+    height: 120px;
+    width: 320px;
+    font-size: 2.4em;
+    text-align: right;
+    display: grid;
+    grid-template-columns: max-content;
+}
